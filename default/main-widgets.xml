@@ -648,6 +648,16 @@
 			</param>
 			<param name="images"><map/></param>
 		</theme>
+		<theme name="chat-bubble-emoji" ref="chat-bubble">
+			<param name="font"><font>chat-bubble-emoji</font></param>
+			<param name="border"><border>2,4,8,4</border></param>
+			<param name="fonts">
+				<map>
+					<param name="default"><font>chat-bubble-emoji</font></param>
+				</map>
+			</param>
+			<param name="maxWidth"><int>600</int></param>
+		</theme>
 	</theme>
 
 	<theme name="mapview" ref="base-tabbed-frame">

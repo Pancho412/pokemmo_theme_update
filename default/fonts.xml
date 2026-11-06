@@ -112,6 +112,9 @@
     <fallbackFontDef filename="res/fonts/NotoSans-Medium.ttf"/>
     <fontParam if="disabled" color="#CCC"/>
   </fontDef>
+  <fontDef name="chat-bubble-emoji" filename="res/fonts/NotoSansCJK-Medium.ttc" faces="sc,tc,jp" color="#535353" size="30" size_cjk="30" hinting="Full" hinting_cjk="Full" shadow_color="#20FFFFFF" shadow_offset_x="1" shadow_offset_y="1" renderer="text">
+    <fallbackFontDef filename="res/fonts/NotoSans-Medium.ttf"/>
+  </fontDef>
   <fontDef name="pb-dark-link" ref="pb-dark" color="#434343">
     <fontParam if="disabled" color="#000"/>
   </fontDef>
