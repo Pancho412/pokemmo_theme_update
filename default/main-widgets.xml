@@ -876,7 +876,7 @@
 	<theme name="messagebox-bubble" ref="-defaults">
 		<theme name="scrollpane-transparent" ref="scrollpane" allowWildcard="true">
 			<param name="background"><image>none</image></param>
-			<theme name="vscrollbar" ref="vscrollbar-white"/>
+			<theme name="vscrollbar" ref="vscrollbar-black"/>
 			<theme name="dialoglayout" ref="-dialog">
 				<theme name="button" ref="button">
 					<param name="border"><border>5</border></param>
@@ -896,7 +896,7 @@
 			<param name="minHeight"><int>100</int></param>
 			<param name="maxHeight"><int>400</int></param>
 			<param name="background"><image>ui-popup.background</image></param>
-			<theme name="vscrollbar" ref="vscrollbar-white"/>
+			<theme name="vscrollbar" ref="vscrollbar-black"/>
 			<theme name="dialoglayout" ref="-dialog">
 				<param name="border"><border>0</border></param>
 				<theme name="button" ref="button">

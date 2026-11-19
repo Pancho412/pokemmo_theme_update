@@ -554,7 +554,7 @@
   <theme name="messagebox-mobile" ref="messagebox-bubble" allowWildcard="true">
 		<theme name="scrollpane-transparent" ref="scrollpane" allowWildcard="true">
 			<param name="background"><image>none</image></param>
-			<theme name="vscrollbar" ref="vscrollbar-white"/>
+			<theme name="vscrollbar" ref="vscrollbar-black"/>
 			<theme name="dialoglayout" ref="-dialog">
 				<theme name="button" ref="button">
 					<param name="border"><border>5</border></param>
